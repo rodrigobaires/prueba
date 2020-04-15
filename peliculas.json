@@ -1,0 +1,166 @@
+[
+	{
+	  "id": 1,
+	  "team_name": "Forrest Gump",
+	  "since": "1886",
+	  "coach": "ArsÃ¨ne Wenger",
+	  "team_nickname": "The Gunners",
+	  "stadium": "EMIRATES STADIUM",
+    "img_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/870px-Arsenal_FC.svg.png",
+    "img_stadium": "https://images-cdn.redletterdays.co.uk/common/client/Images/Product/Extralarge/en-GB/RLD/11888897-RLD-2019_2.jpg",
+	  "latitude": "51.554888",
+	  "longitude": "-0.108438",
+	  "website": "http://www.arsenal.com/",
+	  "tickets_url": "http://www.arsenal.com/tickets",
+	  "address": "Hornsey Road, London N7 7AJ, United Kingdom",
+	  "phone_number": "+44 20 7619 5003",
+	  "description": "Arsenal Football Club exists to make our fans proud wherever they are in the world and however they choose to follow us.",
+	  "video_url": "https://www.youtube.com/watch?v=YsWMJabIaQY",
+	  "schedule_games": [
+	    {
+	      "date": "2015-04-11 17:00:00 +0100",
+	      "stadium": "Turf Moor"
+	    },
+	    {
+	      "date": "2015-04-26 18:00:00 +0100",
+	      "stadium": "Emirates Stadium"
+	    },
+	    {
+	      "date": "2015-05-04 17:00:00 +0100",
+	      "stadium": "The KC Stadium"
+	    },
+	    {
+	      "date": "2015-05-11 17:00:00 +0100",
+	      "stadium": "Emirates Stadium"
+	    }
+	  ]
+	},
+	{
+	  "id": 2,
+	  "team_name": "The Terminal",
+	  "since": "1874",
+	  "coach": "Tim Sherwood",
+	  "team_nickname": "The Villans",
+	  "stadium": "VILLA PARK",
+	  "img_logo": "https://www.error.com/error",
+	  "img_stadium": "http://footballtripper.com/wp-content/uploads/2014/08/villa-park-guide.jpg",
+	  "latitude": "52.509896",
+	  "longitude": "-1.885852",
+	  "website": "http://www.avfc.co.uk/",
+	  "tickets_url": "https://www.eticketing.co.uk/avfc/default.aspx",
+	  "address": "Trinity Rd, Birmingham B6 6HE, United Kingdom",
+	  "phone_number": "+44 800 612 0970",
+	  "description": "Aston Villa are among the oldest and the most successful football clubs in the history of English football.",
+	  "video_url": "https://www.youtube.com/watch?v=FtlMTrtOmzE",
+	  "schedule_games": [
+	    {
+	      "date": "2015-04-11 17:00:00 +0100",
+	      "stadium": "White Hart Lane"
+	    },
+	    {
+	      "date": "2015-04-25 18:00:00 +0100",
+	      "stadium": "Etihad Stadium"
+	    },
+	    {
+	      "date": "2015-05-02 17:00:00 +0100",
+	      "stadium": "Villa Park"
+	    }
+	  ]
+	},
+	{
+	  "id": 3,
+	  "team_name": "Sully",
+	  "since": "1882",
+	  "coach": "Sean Dyche",
+	  "team_nickname": "The Clarets",
+	  "stadium": "Turf Moor",
+	  "img_logo": "https://lh4.googleusercontent.com/-nteZr1o0mYE/AAAAAAAAAAI/AAAAAAAAAD4/-fxGINvK_jY/s0-c-k-no-ns/photo.jpg",
+	  "img_stadium": "https://upload.wikimedia.org/wikipedia/commons/c/c7/James_Hargreaves_Stand_Burnley.jpg",
+	  "latitude": "53.789167",
+	  "longitude": "-2.230278",
+	  "website": "http://www.burnleyfootballclub.com/",
+	  "tickets_url": "http://www.burnleyfootballclub.com/tickets/",
+	  "address": "Harry Potts Way, Burnley, Lancashire, England",
+	  "phone_number": "+44 0871 221 1914",
+	  "description": "Burnley Football Club are a professional football club based in Burnley, Lancashire, who play in the Premier League, the highest level of English football. Nicknamed The Clarets, due to the dominant colour of their home shirts, they were one of the founder members of the Football League in 1888.",
+	  "video_url": "https://www.youtube.com/watch?v=gprG5_Gcic4",
+	  "schedule_games": [
+	    {
+	      "date": "2015-04-11 17:00:00 +0100",
+	      "stadium": "Turf Moor"
+	    },
+	    {
+	      "date": "2015-04-18 18:00:00 +0100",
+	      "stadium": "Goodison Park"
+	    },
+	    {
+	      "date": "2015-04-25 17:00:00 +0100",
+	      "stadium": "Turf Moor"
+	    }
+	  ]
+	},
+	{
+	  "id": 4,
+	  "team_name": "Naufrago",
+	  "since": "1905",
+	  "coach": "JosÃ© Mourinho",
+	  "team_nickname": "The Blues",
+	  "stadium": "Stamford Bridge",
+	  "img_logo": "https://lh3.googleusercontent.com/-_-grPaix4ZQ/AAAAAAAAAAI/AAAAAAAAr30/P4xhpy_3OwY/s0-c-k-no-ns/photo.jpg",
+	  "img_stadium": "http://i4.mirror.co.uk/incoming/article6018406.ece/ALTERNATES/s615/Chelsea-Wembley.jpg",
+	  "latitude": "51.481667",
+	  "longitude": "-0.191111",
+	  "website": "http://www.chelseafc.com/",
+	  "tickets_url": "http://www.chelseafc.com/tickets-membership/tickets-home.html#match=none",
+	  "address": "Fulham, London, SW6 1HS, England",
+	  "phone_number": "00 44 20 7835 6000",
+	  "description": "Chelsea Football Club are a professional football club based in Fulham, London, who play in the Premier League, the highest level of English football. Founded in 1905, the club have spent most of their history in the top tier of English football.",
+	  "video_url": "https://www.youtube.com/watch?v=06_xB2Sc7E8",
+	  "schedule_games": [
+	    {
+	      "date": "2015-04-12 17:00:00 +0100",
+	      "stadium": "Loftus Road Stadium"
+	    },
+	    {
+	      "date": "2015-04-18 18:00:00 +0100",
+	      "stadium": "Stamford Bridge"
+	    },
+	    {
+	      "date": "2015-04-26 17:00:00 +0100",
+	      "stadium": "Emirates Stadium"
+	    }
+	  ]
+	},
+	{
+	  "id": 5,
+	  "team_name": "La Purga",
+	  "since": "1912",
+	  "coach": "Garry Monk",
+	  "team_nickname": "The Swans",
+	  "stadium": "Liberty Stadium",
+    "img_logo": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Swansea-City-Logo.png",
+    "img_stadium": "https://www.footballgroundguide.com/images/image/product/property/liberty-stadium-swansea-city-south-and-west-stands-1411749553.jpg",
+	  "latitude": "51.642697",
+	  "longitude": "-3.935307",
+	  "website": "http://www.liberty-stadium.com/",
+	  "tickets_url": "https://www.eticketing.co.uk/swanstickets/default.aspx",
+	  "address": "Landore, Swansea SA1 2FA, United Kingdom",
+	  "phone_number": "+44 871 222 3224",
+	  "description": "Swansea City Association Football Club is a Welsh professional association football club based in the city of Swansea, South Wales that plays in the Premier League",
+	  "video_url": "https://www.youtube.com/watch?v=tEUn22vEi5U",
+	  "schedule_games": [
+	    {
+	      "date": "2015-04-11 17:00:00 +0100",
+	      "stadium": "Liberty Stadium"
+	    },
+	    {
+	      "date": "2015-04-18 18:00:00 +0100",
+	      "stadium": "King Power Stadium"
+	    },
+	    {
+	      "date": "2015-04-25 17:00:00 +0100",
+	      "stadium": "St. James' Park"
+	    }
+	  ]
+	}
+]
